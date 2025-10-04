@@ -1,11 +1,11 @@
 ## Instructions to install Unity/Unity Hub
 Perhaps the easiest way to install Unity is through the Hub, which effectivelly manages your projects and editor versions. Follow _all_ the steps below to get everything installed!
 
-1. Navigate to this [link](https://unity.com/download#:~:text=.%20Download%20the%20Unity%20Hub) and under the section "Download Unity Hub" select the option for your operating system, for Windows/Mac, this should download an installer, which you can then run to install Unity Hub. The link for Linux will include instructions.  
+1. Navigate to this [link](https://unity.com/download#:~:text=.%20Download%20the%20Unity%20Hub) and under the section "Download Unity Hub" select the option for your operating system, for Windows/Mac, this should download an installer, which you can then run to install Unity Hub. The link for Linux will include instructions. 
   ![image](https://github.com/mbeale0/Unity3D-CodeMash-Workhop/assets/74221606/aeae7e33-2258-44a4-9b37-9b57d5d2eea4)  
-1. Once installed, navigate to the [download archive](https://unity.com/releases/editor/archive#:~:text=Release%20Notes-,Unity%202021.3.6,-July%208%2C%202022), where we can pick a specific version, so we can all be one, hopefully reducing some issues. For later projects, feel free to use whatever versions you like, downloading from the hub may be a lot easier for updates.
-1. We will be using 6000.0.58f2. For the scope of this course, you could probably be on any minor/patch version of version 6, but its best to stay on the same version.  On the archive page, select the tab "Unity 2021.X" and scroll down till you find the following:  
-   ![image](https://github.com/mbeale0/Unity3D-CodeMash-Workhop/assets/74221606/2873d454-0b6d-4159-8114-5fb959021217)
+1. Once installed, navigate to the [download archive](https://unity.com/releases/editor/archive), where we can pick a specific version, so we can all be on one version, hopefully reducing some issues. The Unity Hub can more easily be used later for the most up to date or LTS version of Unity, but the archive can allow us to choose the same version
+1. We will be using 6000.0.58f2. For the scope of this course, you could probably be on any minor/patch version of version 6, but its best to stay on the same version.  On the archive page, it should default to Unity 6, then select the tab "All versions" and find our version in the list:  
+   <img width="2235" height="213" alt="image" src="https://github.com/user-attachments/assets/3a9e090c-7079-4915-8dea-0532b837e7fc" />
 1. Select the button that says "Unity Hub" to start the installation process in the Unity Hub (click allow links to open Unity hub if prompted). Before it actually starts, follow the next step for extra needed installations.
 1. We need to also install a couple of modules along with it.
     - First, if you choose to use Visual Studio Community(which is generally recommended but not needed) make sure that is selected. Some more info on IDEs, such as alternatives, can be found in the main ReadMe. I already have it installed, but it will be in this same location with a checkbox:
