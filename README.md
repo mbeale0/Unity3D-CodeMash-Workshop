@@ -112,7 +112,7 @@ Before starting, make sure you are on the master branch branch. Below is a tenta
 
 1. [Lab 9](https://github.com/mbeale0/Unity3D-CodeMash-Workhop/blob/master/labs/lab9.md)
 
-1. [Lab 10](https://github.com/mbeale0/Unity3D-CodeMash-Workhop/blob/master/labs/lab10.md)
+1. [Lab 10](https://github.com/mbeale0/Unity3D-CodeMash-Workhop/blob/master/Labs/lab10.md)
 
 1. Wrap-up
 
