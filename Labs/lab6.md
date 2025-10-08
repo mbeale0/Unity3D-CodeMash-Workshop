@@ -1,6 +1,6 @@
 # Challenge - Create a Pause Menu
 
-It is time to use what you have learned and try it on your own! This is a lot of little pieces, so don't feel bad if you don't get it all!  I just want you to at least try on your own, so when I show you, you know what went wrong and such. Feel free to use the hints you have and if you get stuck I'll show you how to do it. Let's try and take 10 minutes for this.
+It is time to use what you have learned and try it on your own! This is a lot of little pieces, so don't feel bad if you don't get it all! Feel free to use the hints you have but try and take a few minutes before using the hints, and the solution is down below as well.
 
 ![Intro to Unity (1)](https://github.com/mbeale0/Unity-Intro-Project/assets/74221606/bf7b94a8-73da-49e2-a222-9279ea576bc0)
 
