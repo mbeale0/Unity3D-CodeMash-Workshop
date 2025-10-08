@@ -78,26 +78,21 @@ Just like before:
 - Navigate to the directory where you cloned the project, and open "RollerBall" in the main folder
 - You're all set! See you at the Kalahari!
 
-## Tentative Schedule
-Before starting, make sure you are on the master branch branch. Below is a tentative schedule, which will likely change slightly as time allows
-
-1. Intro and Welcome
+## Labs
  
-1. Presentation
+1. Presentation (link TBD)
    
 1. [Lab 1](https://github.com/mbeale0/Unity3D-CodeMash-Workhop/blob/master/Labs/lab1.md)
 
 1. [Lab 2](https://github.com/mbeale0/Unity3D-CodeMash-Workhop/blob/master/Labs/lab2.md)
-
-1. 1. Break ~5 minutes
 
 1. [Lab 3](https://github.com/mbeale0/Unity3D-CodeMash-Workhop/blob/master/Labs/lab3.md)
 
 1. [Lab 4](https://github.com/mbeale0/Unity3D-CodeMash-Workhop/blob/master/Labs/lab4.md)
 
 1. [Lab 5](https://github.com/mbeale0/Unity3D-CodeMash-Workhopblob/master/Labs/lab5.md)
-
-1. 1. Break ~ 10 minutes
+ 
+1. [Challenge Lab](https://github.com/mbeale0/Unity3D-CodeMash-Workhop/blob/master/Labs/pause_menu_challenge.md): Optional during live training
 
 1. [Lab 6](https://github.com/mbeale0/Unity3D-CodeMash-Workhop/blob/master/Labs/lab6.md)
 
@@ -105,13 +100,9 @@ Before starting, make sure you are on the master branch branch. Below is a tenta
 
 1. [Lab 8](https://github.com/mbeale0/Unity3D-CodeMash-Workhop/blob/master/Labs/lab8.md)
 
-1. Break ~ 5 Minutes
-
 1. [Lab 9](https://github.com/mbeale0/Unity3D-CodeMash-Workhop/blob/master/Labs/lab9.md)
 
-1. [Lab 10](https://github.com/mbeale0/Unity3D-CodeMash-Workhop/blob/master/Labs/lab10.md)
 
-1. Wrap-up
 
 ## Where to go next
 I would encourage you to keep learning and (hopefully) having fun with Unity, so I wanted to provide a few different things you can do next:
