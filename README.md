@@ -80,7 +80,7 @@ Just like before:
 
 ## Labs
  
-1. Presentation (link TBD)
+1. [Presentation](https://docs.google.com/presentation/d/1sxYHesPOa7OtwPPgj44xZW0chdj6G-S_y2YuZe1d8qA/edit?usp=sharing)
    
 1. [Lab 1](https://github.com/mbeale0/Unity3D-CodeMash-Workhop/blob/master/Labs/lab1.md)
 
