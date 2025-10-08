@@ -36,7 +36,7 @@ Since this is the basics, any version should work, but it is better to have the 
 You will also need something to edit the code. If you followed the above steps, VS Community should be installed, which is the _recommended_ IDE to use, as the process to install is much more streamlined and will include more autocomplete features out of the box. 
 
 You can also feel free to install VS Code or Jet brains Rider(free trial), though there may be extra steps involved
- - Click this link for helpful install info: https://docs.unity3d.com/Manual/ScriptingToolsIDEs.html#:~:text=Unity%20supports%20the%20following%20IDEs,JetBrains%20Rider
+ - Click [this link](https://docs.unity3d.com/Manual/ScriptingToolsIDEs.html#:~:text=Unity%20supports%20the%20following%20IDEs,JetBrains%20Rider) for helpful install info
  - The link also explains how to hook up the IDE to the editor, which can be done when testing your setup in a few moments
  - Follow this [video](https://code.visualstudio.com/docs/other/unity) to install and hook up VS Code. You will need to install SDKs, extensions, etc, so this is very **important** if you wish to use VS Code!
  - Jet Brains is less common, and I have not used it before, so choose this at your own risk.
