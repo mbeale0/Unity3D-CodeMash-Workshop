@@ -1,5 +1,4 @@
 # Creating Your First Level
-*Git branch: Lab1Finished*
 
 Watching a ball roll down a hill is fun and all, but I think it's time for something a bit more exciting, how bout you? We want to actually _play_ our game.
 Let's get started with the first step of that: creating a real level. (Our next lab will be introducing player controls). We'll start with a nice simple level, but revamp it as the labs go on.
