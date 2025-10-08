@@ -44,8 +44,7 @@ You can also feel free to install VS Code or Jet brains Rider(free trial), thoug
 It may be worth it to create a simple [C# "Hello World" program](https://www.programiz.com/csharp-programming/hello-world) to ensure code completion, intellisense, and general SDK is working. 
 
 ### Git
-You can manage without Git but it is recommended to have it installed. If you clone using Git there will be progress branches to help stay on pace
- - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+It's easier to clone with Git, but not needed
 
 ### Cloning the project
 This repo contains a test project and a starter project for the training, so you need the files.
