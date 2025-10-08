@@ -103,7 +103,9 @@ A couple of things to note:
 
 Great! Now we have one obstacle that you can tweak to your liking, and even prefab to create variants of. Let's go ahead and add another one.
 
-## The second obstacle
+## The second obstacle - Optional
+_Feel free to skip this obstacle during the live training, as it is mostly reinforcing previous ideas and it can more fun to get to new stuff in later labs!_
+
 Follow the same process as earlier: create a new cube named "MovingObstacle", center it on the platform, though this time on the other side and set it to about 5 on the X value, and line it so it is perpendicular to the platform
    ![MovingObstacle](https://github.com/mbeale0/Unity-Intro-Project/assets/74221606/e370068f-e45c-4061-aee2-d43acca9c4ed)
    
