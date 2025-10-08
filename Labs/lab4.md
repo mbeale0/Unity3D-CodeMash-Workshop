@@ -98,7 +98,7 @@ A couple of things to note:
 
 1. This does not act on the physics of the object, which as we mentioned before can affect the collisions. However, since this is a small part with relatively discrete set of actions, it 
     isn't a huge difference here. The "1" is basically saying move 1 degree at a time, so even though the object is technically "teleporting" to that new rotation, it is on such a small scale that it is negligible for our purposes
-2. We haven't seen Time.deltaTime before, it is useful for keeping things in track with the frames, I found a good defintion [here]([https://link-url-here.org](https://gamedevbeginner.com/how-to-rotate-in-unity-complete-beginners-guide/#rotate_unity:~:text=How%20to%20make%20an%20object%20spin):
+2. We haven't seen Time.deltaTime before, it is useful for keeping things in track with the frames, I found a good defintion [here](https://gamedevbeginner.com/how-to-rotate-in-unity-complete-beginners-guide/#rotate_unity:~:text=How%20to%20make%20an%20object%20spin):
     - "_Multiplying the rotation amount by Time.deltaTime (which is the duration of the last frame) makes sure that the rotation is smooth and consistent, even if the framerate of the game changes_"
 
 Great! Now we have one obstacle that you can tweak to your liking, and even prefab to create variants of. Let's go ahead and add another one.
