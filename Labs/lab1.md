@@ -92,7 +92,7 @@ Now it's finally time to add some code!
 Go ahead and click the "Add Component" button again on the Finish Line object. This time, let's type in what we want to name our script. How about: "FinishLineManager" - feel free to choose your own name, but just remember it when we come back later. 
 Click the "new script" button, then click "Create and Add". This will add the script to the /assets/ folder. You can double-click the script name in the "Script" field of the newly created component, or click the script icon in the /assets/ folder to open the script.
 
-Upon opening your file, you should see two very important Unity functions: Start and Update, with comments explaining their function. Start is called before the first frame, and Update is called once per frame. For a quick example, Start would be used for setting up a scene before play, and update would be used to check for input.
+Upon opening your file, you should see two very important Unity functions: Start and Update, with comments explaining their function. Start is called before the first frame, and Update is called once per frame. For a quick example, Start would be used for setting up a scene before play, and update would be used to check for input. Visit [these docs](https://docs.unity3d.com/Manual/ExecutionOrder.html) for more Unity functions and their execution order.
 
 Delete them, and their comments.
 
