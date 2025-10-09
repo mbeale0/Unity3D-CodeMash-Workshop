@@ -90,7 +90,7 @@ Just like before:
 
 1. [Lab 4](https://github.com/mbeale0/Unity3D-CodeMash-Workhop/blob/master/Labs/lab4.md)
 
-1. [Lab 5](https://github.com/mbeale0/Unity3D-CodeMash-Workhopblob/master/Labs/lab5.md)
+1. [Lab 5](https://github.com/mbeale0/Unity3D-CodeMash-Workhop/blob/master/Labs/lab5.md)
  
 1. [Challenge Lab](https://github.com/mbeale0/Unity3D-CodeMash-Workhop/blob/master/Labs/pause_menu_challenge.md): Optional during live training
 
