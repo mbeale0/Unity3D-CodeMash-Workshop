@@ -16,24 +16,24 @@ If you need any help installing, ping "@Mason Beale" in the CodeMash [Discord](h
 - Knoweledge of Git/GitHub is preferred, but not required
 ### Equipment
 You'll need a laptop(if attending in person) or desktop with Windows, Linux, or Mac installed
-- Unity can run decently well on most laptops, even if they are not super powerful, as long as they aren't already super slow even with things like browsing the internet, but especially for the game we will make, it is not super power intensive
+- Unity can run well on most laptops for simple projects, if the machine isn't already really slow. 
   - Unity official system requirements: https://docs.unity3d.com/Manual/system-requirements.html#editor
   - For more in depth and specifics about RAM, CPU, etc vist here: https://www.cgdirector.com/unity-system-requirements/
     - One quote from that article worth mentioning: "It definitely doesn’t need the latest and greatest hardware, and you can run it just fine on anything released in the last 5 years" (and probably even a few more years than that for what we are doing, but better to be safe)
 
-It would also be recommended to have a mouse instead of a touch pad, as that makes scene navigation easier(IMO)
+It is recommended to have a real mouse instead of a touch pad
 
 ### Itch.io
 As long as there is time, the last lab will involve uploading a build of our game to Itch.io, so to save time, go ahead and register for a (free) account now: https://itch.io/register
 
 ### Unity
-This will be done using Unity 6.0 (6000.0.58f2). You will have to create af ree account with Unity, just follow the prompts when they appear.
+This will be done using Unity 6.0 (6000.0.58f2). You will have to create a free account with Unity, just follow the prompts when they appear.
 Since this is the basics, any version should work, but it is better to have the same version, at least version 6. Follow the instructions [here](https://github.com/mbeale0/Unity3D-CodeMash-Workhop/blob/master/installation.md) to install Unity.
 
 ### IDE
 You will also need something to edit the code. If you followed the above steps, VS Community should be installed, which is the _recommended_ IDE to use, as the process to install is much more streamlined and will include more autocomplete features out of the box. 
 
-You can also feel free to install VS Code or Jet brains Rider(free trial), though there may be extra steps involved
+You can also feel free to install VS Code or Jet brains Rider(free trial), though there may be extra steps involved. I will be on Linux during the live session, using VS Code
  - Click [this link](https://docs.unity3d.com/Manual/ScriptingToolsIDEs.html#:~:text=Unity%20supports%20the%20following%20IDEs,JetBrains%20Rider) for helpful install info
  - The link also explains how to hook up the IDE to the editor, which can be done when testing your setup in a few moments
  - Follow this [video](https://code.visualstudio.com/docs/other/unity) to install and hook up VS Code. You will need to install SDKs, extensions, etc, so this is very **important** if you wish to use VS Code!
@@ -45,7 +45,7 @@ It may be worth it to create a simple [C# "Hello World" program](https://www.pro
 It's easier to clone with Git, but not needed
 
 ### Cloning the project
-This repo contains a test project and a starter project for the training, so you need the files.
+This repo contains a test project and a starter project for the training, so you need to clone the repo.
 
 With Git installed, you can clone the project.
  - https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
