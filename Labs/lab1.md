@@ -31,7 +31,7 @@ Of course as fun as watching the infinite falling ball is, that's not really gre
 
 In the top left of the screen, find the "GameObject" tab. This allows us to quickly add default Unity objects to our scenes, such as primitives(basic shapes), Cameras, UI, and more.
 
-Go ahead and click that tab, select "Shapes" -> "3D Cube". Once you click that you should see a new cube labeled "Cube (1)" pop up in the hierarchy and Inspector, and you should notice a new white cube in the scene view.
+Go ahead and click that tab, select "3D Objects" -> "Cube". Once you click that you should see a new cube labeled "Cube (1)" pop up in the hierarchy and Inspector, and you should notice a new white cube in the scene view.
 
 The first thing we need to do is actually get our cube in a good place for the ball to roll to. There are two main ways of doing this. We can use the position value of the transform in the inspector, or the green/red/blue arrows in the scene.
 The inspector is good for a couple things.
@@ -40,7 +40,7 @@ The inspector is good for a couple things.
 Let's go ahead and use the arrows for now. As you may have guessed, the cube will move in the direction of the arrows. However, unless you have already been messing around in your scene, it may be hard to see the cube. Let's learn a little bit about navigating the scene.
 
 To navigate the scene, you can both adjust your orientation/look, and your position. It's like a no-clip mode in certain games.
-In the scene view, you can click and hold the right mouse button to look around. You can then use the WASD keys to "fly" around the scene. The scroll wheel is also useful for zooming in/out, or if you scroll while holding the right mouse button, you adjust the speed at which you fly.
+In the scene view, you can click and hold the right mouse button to look around. You can then use the Arrow Keys to "fly" around the scene. The scroll wheel is also useful for zooming in/out, or if you scroll while holding the right mouse button, you adjust the speed at which you fly.
 
 Using this knowledge, navigate in your scene to where you are looking at a sort of top-down view of the ramp, and you're able to see both the bottom of the ramp and the new cube(it doesn't have to be perfect)
 ![rampperspective](https://github.com/mbeale0/Unity-Intro-Project/assets/74221606/2bd609a5-1a64-4949-addc-58b82a2ee372)
