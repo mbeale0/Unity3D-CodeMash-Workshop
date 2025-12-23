@@ -25,7 +25,7 @@ Next go ahead and drag the "sphere" object into the folder as well. And boom! Yo
 
 Before we go on, let's change the sphere's name to something a but more intuitive. In the Prefab folder, click the "Sphere" and either press F2 or right click and select rename to rename the ball. Let's name it something like "Player".
 
-You may notice the ball in the heirarchy doesn't change. This is to be expected, as that functions like a variable name for a class instantiation, ie, it is simply a way to reference the specific object. However, changing something like "Mass" on the prefab _will_ alter the object(however you can change the variables in the instantiated object to be what you like without affecting the orefab or other instances)
+You may notice the ball in the heirarchy doesn't change. This is to be expected, as that functions like a variable name for a class instantiation, ie, it is simply a way to reference the specific object. However, changing something like "Mass" on the prefab _will_ alter the object(however you can change the variables in the instantiated object to be what you like without affecting the prefab or other instances)
 
 Okay, that's enough info =) Let's actually get to making a level now!
 
