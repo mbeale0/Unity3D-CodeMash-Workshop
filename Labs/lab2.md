@@ -25,7 +25,7 @@ Next go ahead and drag the "sphere" object into the folder as well. And boom! Yo
 
 Before we go on, let's change the sphere's name to something a but more intuitive. In the Prefab folder, click the "Sphere" and either press F2 or right click and select rename to rename the ball. Let's name it something like "Player".
 
-You may notice the ball in the heirarchy doesn't change. This is to be expected, as that functions like a variable name for a class instantiation, ie, it is simply a way to reference the specific object. However, changing something like "Mass" on the prefab _will_ alter the object(however you can change the variables in the instantiated object to be what you like without affecting the orefab or other instances)
+You may notice the ball in the heirarchy doesn't change. This is to be expected, as that functions like a variable name for a class instantiation, ie, it is simply a way to reference the specific object. However, changing something like "Mass" on the prefab _will_ alter the object(however you can change the variables in the instantiated object to be what you like without affecting the prefab or other instances)
 
 Okay, that's enough info =) Let's actually get to making a level now!
 
@@ -39,7 +39,7 @@ Go ahead and name this scene "Level1". Double click it to open the new empty sce
 
 As you can see in the Heirarchy each new level starts with just a camera and directional light, needed for almost every scene.
 
-Let's get started by adding simple starting line for the player. In the top left, go ahead and select the GameObject tab. From there, "3D Objects" -> "Plane"
+Let's get started by adding a simple starting line for the player. In the top left, go ahead and select the GameObject tab. From there, "3D Objects" -> "Plane"
 
 Planes, as oppoosed to cubes, work well for floors or platforms like our game, since they start flat. They also only render one side, if you were to navigate in the viewport to look underneath the plane, you would see right through it! Like a sort of one way window. The reason for this is much more in depth than this course will go into, but it ultimately has to do with culling, ie stopping render of certain objects to optimize the game. 
 
@@ -65,7 +65,7 @@ Just like with the player prefab, click and drag the "Finish Line" prefab into t
 You can use the same trick as earlier to get it on the same height as the other objects by copying over the z value. Then use the red and blue arrows, or the square between them to line it up on the other side of the platform. 
 </details>
 
-Congrats! One last thing we want to do. Moving the camera so the game is actually playable(and speaking of seeing the game, don't worry about all the white. It's a lot to look at, we'll also fix that later.
+Congrats! One last thing we want to do. Moving the camera so the game is actually playable(and speaking of seeing the game, don't worry about all the white. It's a lot to look at, we'll also fix that later.)
 
 For now we'll have a static camera, and later we'll add one that can move with the player. In the scene view, get into a position that feels like a decent camera angle. Once there, right click the "Main Camera" in the hierarchy, and towards the bottom, select "Align with view"
 
