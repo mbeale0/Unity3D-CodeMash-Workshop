@@ -138,7 +138,7 @@ Save your file and switch back to Unity. Add our new script to the Main Camera b
 
 If you click play as is, watch your camera move with the ball! Things are feeling so dynamic and fast paced now! You can leave it as is if you'd like, but I'd prefer to orient the camera with my forward movement.
 
-Like we did in the first lab, navigate in the scene to be behind the ball where feels right to you. Then once you're happy(or moderately okay), right click the camera object and select "align with view". If you click play, you'' notice the camera moves but the ball now goes the wrong direction. We need to adjust our MoveX/MoveZ values. Using the suggestions about looking at the X and Z axes, try and fix this new bug yourself, and playtest it to see if it works. If you can't get it to work, take a look at what I changed:
+Like we did in the first lab, navigate in the scene to be behind the ball where feels right to you. Then once you're happy(or moderately okay), right click the camera object and select "align with view". If you click play, you'll notice the camera moves but the ball now goes the wrong direction. We need to adjust our MoveX/MoveZ values. Using the suggestions about looking at the X and Z axes, try and fix this new bug yourself, and playtest it to see if it works. If you can't get it to work, take a look at what I changed:
 
 <details><summary> Click here to see the code</summary>
     
