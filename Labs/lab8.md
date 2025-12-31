@@ -167,8 +167,8 @@ AudioSource.PlayClipAtPoint(pickupSFX, transform.position, 1);
 ```
 The three arguments are the clip, the location to spawn(in our case, where the coin was) and the volume, which I have set to one. Add the "CoinPickup" clip to the new field on your coins and we are good to go!
 
-## Work time!
-Congrats! You have made an entire game that includes dying/winnin, challenge, extra features, UI and even audio! This is a great thing! I hope you at least added some of your own self as you were following along, but now is also the time.
+## You Did It!
+Congrats! You have made an entire game that includes winning/losing, challenges, extra features, UI and even audio! This is a great thing! I hope you at least added some of your own self as you were following along.
 
-We have one more lab, where we will build and share our games, but right now, let's take about 20 minutes and all work on our games. Maybe experience with visuals through lighting or materials. Add challenge to the course through narrow paths or moving platforms the player has to get on, or maybe even new obstacles, like ones that try to smash the player or move in less random patters, or even better yet, think of a whole new feature or cool idea that wasn't even thought about in the training!
+Depending on time, feel free to move on to the next lab to publish your game to Itch.IO, or keep exploring and expanding your game.
 
