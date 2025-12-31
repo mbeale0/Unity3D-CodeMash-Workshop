@@ -61,7 +61,7 @@ We round the milliseconds as well to keep that format
 And finally, after saving this script, we hook up the text gameobject in the scene to the GameManager, and we are good to go!
 
 ## Some audio
-Audio is an extremely important aspect of any game, or even the lack of audio can and should be intentional choices, as it is a strong feature to influence player emotion. Even in a simple game like this, we can engage our players more with some music, and some simple sound effects than engage them more and make them want to play and do it well!
+Audio is an extremely important aspect of any game as it is a strong feature to influence player emotion and engagement. Even in a simple game like this, we can engage our players more with some music, and some simple sound effects than engage them more and make them want to play and do it well!
 
 Let's start with some easy audio, in adding some music. Music is pretty easy to add in unity, as for simple looping tracks, you just need to add a component to an object, called "Audio Source" and add your audio file. All you need to play an audio track in Unity is an Audio Source and an Audio Listener. You can have as many Audio Sources as you need/want, but only one Audio Listener(by default it is placed on the Camera)
 
