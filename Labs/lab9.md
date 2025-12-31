@@ -31,7 +31,7 @@ Finally, leave "Visibility and access" set to "Draft", and click save. It needs 
 
 Choose either "Early Access" or "Complete", though it doesn't make a huge difference which you choose, it is really just for people browsing the store, and can be changed at any time. The Game page will not be published until later in the process, when you choose.
 
-Now we need to fill in the basic details(note a lot of this is pretty straightforward if you want to go on your own, and if you get stuck, wait till I get to that point). I unchecked "Add to Partner System" but truthfully that only matters for games making revenue.
+Now we need to fill in the basic details(note a lot of this is pretty straightforward if you want to go on your own). I unchecked "Add to Partner System" but truthfully that only matters for games making revenue.
 ![image](https://github.com/mbeale0/Unity3D-CodeMash-Workhop/assets/74221606/636a7b93-51b1-4843-aa72-4e208992b2a4)  
 
 On your game page, in the error, click "edit your project"
