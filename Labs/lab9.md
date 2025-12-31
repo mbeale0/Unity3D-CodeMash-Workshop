@@ -29,12 +29,8 @@ Let's skip uploading our game for now, to make sure they are all done building. 
 Finally, leave "Visibility and access" set to "Draft", and click save. It needs to be saved once to make it public
 ![image](https://github.com/mbeale0/Unity3D-CodeMash-Workhop/assets/74221606/ee6df430-ba1f-4b6a-bcf5-31b67c6eb236)
 
-Choose either "Early Access" or "Complete", though it doesn't make a huge difference which you choose, it is really just for people browsing the store, and can be changed at any time. The Game page will not be published until later in the process, when you choose.
+On your game page, if you get an error after you save, click "edit your project"
 
-Now we need to fill in the basic details(note a lot of this is pretty straightforward if you want to go on your own). I unchecked "Add to Partner System" but truthfully that only matters for games making revenue.
-![image](https://github.com/mbeale0/Unity3D-CodeMash-Workhop/assets/74221606/636a7b93-51b1-4843-aa72-4e208992b2a4)  
-
-On your game page, in the error, click "edit your project"
 ![image](https://github.com/mbeale0/Unity3D-CodeMash-Workhop/assets/74221606/d1e6a701-c791-4192-8493-7ec2daf8033c)
 
 Now it is time to upload your build, assuming your project is done building. Compress the "Build" folder you built your game in to a standard zip folder in a location of your choosing(probably not your project folder).
@@ -45,4 +41,4 @@ Upload that zip folder where it says "Upload files" in your itch.io project edit
 Now just change the visibility to public, save your page and you are good to go!!
 
 ## Wrap Up
-Again, congratulations! Thanks for going through this course, I hope you enjoyed! I just have a few closing thoughts.
+Again, congratulations! Thanks for going through this course, I hope you enjoyed!
