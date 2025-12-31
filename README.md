@@ -33,6 +33,8 @@ Since this is the basics, any version should work, but it is better to have the 
 ### IDE
 You will also need something to edit the code. If you followed the above steps, VS Community should be installed, which is the _recommended_ IDE to use, as the process to install is much more streamlined and will include more autocomplete features out of the box. 
 
+It is also _highly_ suggested you make sure intellisense is working (see below for a suggested Hello World script) as there are a lot of build in Unity code we will use that Intellisense will help with.
+
 You can also feel free to install VS Code or Jet brains Rider(free trial), though there may be extra steps involved. I will be on Linux during the live session, using VS Code
  - Click [this link](https://docs.unity3d.com/Manual/ScriptingToolsIDEs.html#:~:text=Unity%20supports%20the%20following%20IDEs,JetBrains%20Rider) for helpful install info
  - The link also explains how to hook up the IDE to the editor, which can be done when testing your setup in a few moments
