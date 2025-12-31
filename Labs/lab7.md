@@ -1,7 +1,5 @@
 # Improving Our Level - Part One
-These next two labs will go hand in hand, both focusing on improving our level and hopefully making it feel a bit more like our own. Across both labs we will cover several different things, some not directly related, but enough that we could bundle it all together. I split it across to labs to just make it more manageable.
-
-I will also give some time after the next lab to let you all customize your levels, so feel free to just follow along right now, then go and explore
+These next two labs will go hand in hand, both focusing on improving our level and hopefully making it feel a bit more like our own. Across both labs we will cover several different things, some not directly related, but enough that we could bundle it all together. I split it across to labs to just make it more manageable. If going at your own pace, feel free to take these next two labs and explore how you want. I think all of it is important for games, but sometimes it's just about having fun :)
 
 ## Materials
 The first thing we will take a look at is one of the most important when it comes to improving our games visual appearance, and this is materials, or really, colors. These work very similar to textures which provide much more detailed and custom looks, and are even applied to objects much the same way. Since they are similar and we do not have built in textures, we will just stick with materials for now.
@@ -62,8 +60,8 @@ I like the first one: "6sided Cosmic Cool Cloud". Go ahead and select one for no
 For both types, you have three main fields to add further customization: Tint, Exposure, and Rotation. These do pretty much what you expect. Tint changes the color output from teh skybox, which can dramatically change some of them(it doesn't simply add a tint, it overlays it very well). The exposure turns up the brightness, which affects the color of the scene as mentioned before. The rotation simply rotates the skybox. After quickly messing with those valuesm this is a peak of my scene:  
 ![image](https://github.com/mbeale0/Unity-Intro-Project/assets/74221606/cca162b4-6cf1-4bf9-9607-597271c00eae)
 
-## Lighting
-As with everything else in Unity, you can go incredibly deep on just a couple things, and that is especially true with lighting, so we are just going to look at a couple different lighting sources, and some main fields that we are more likely to change. This is a kind of info dump, so dont worry about remembering every detail 🙂 Feel free to refer back to this later.
+## Lighting Info
+As with everything else in Unity, you can go incredibly deep on just a couple things, and that is especially true with lighting, so we are just going to look at a couple different lighting sources, and some main fields that we are more likely to change. This is a kind of info dump, so dont worry about remembering every detail 🙂 Feel free to refer back to this later. Or skip this for the live training, and come back later. This is just information, and nothing is currently changing in our level. Though, if you have lighting ideas, go for it! Now is your time to explore.
 
 In the hieracrchy, expand the "Environment" object, and select "Directional light". I want us to look at the first 6 fields, and encourage you to look into it more later. Information below and for other fields from [here](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@7.2/manual/light-component.html#:~:text=The%20Indirect%20Multiplier%20defines%20the,light%20brighter%20with%20each%20bounce.)
 1. Type - "The current type of light. Possible values are Directional, Point, Spot and Area."
