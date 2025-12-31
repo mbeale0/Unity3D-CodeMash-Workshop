@@ -4,7 +4,7 @@ Congrats! You have made a complete and full game, which is something even many p
 Of course, when we make a new project, its super fun to let other people play it, so let's actually build our game(so the person doesn't need Unity) and to make it even easier, we will upload it as a WebGL build to gamejolt so it will be super easy to share online, and free!
 
 ## Building our game
-We will need to create GameJolt accounts, but it _can_ take a while to build a WebGL project, so I want that to be running in the background in case it takes too long.
+We will need to create Itch.io accounts, but it _can_ take a while to build a WebGL project, so I want that to be running in the background in case it takes too long.
 
 In the Unity Editor, navigate to "File" -> "Build Settings"  
 ![image](https://github.com/mbeale0/Unity3D-CodeMash-Workhop/assets/74221606/8aa20ecd-4cba-4b8a-bfe8-9b4111db15a5)  
