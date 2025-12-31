@@ -12,7 +12,7 @@ If you want, you can press the play button on the top of the window to see how n
 ## Getting the ball to roll
 We'll start slowly here. First, in the hierarchy window on the left side of the screen, under "Lab1Scene", click the "Sphere" object. Upon doing so, the details about the object will appear on the right-hand side of the screen in the inspector.
 The Sphere contains basic features (known as components) that most objects in a game will have:
-  1. Transform - The details of the object in the world space, or the "Scene" tab. The position is where it is located, the rotation is how it is rotated(hard to see in a sphere) and of course scale is how big it is
+  1. Transform - The details of the object in the world space. The position is where it is located, the rotation is how it is rotated(hard to see in a sphere) and of course scale is how big it is
 	- Feel free to mess with these values to see what they do, but make sure to remember them
 	- We will talk shortly about to edit these directly in the scene
   2. Sphere (Mesh Filter) - Contains a reference for the mesh, a collection of triangles organized in 3D space to represent an object
@@ -20,7 +20,7 @@ The Sphere contains basic features (known as components) that most objects in a 
   4. Sphere Collider - Used to define where and how collisions should take place on the object in interaction with physics
   5. Dark Green (Material) - The material applied to an object giving it color or texture and other visual values
 
-In order to get the ball to roll down the ramp simply requires that physics have an effect on the object.
+Getting the ball to roll down the ramp simply requires physics to affect the object.
 
 Thankfully, this is actually a really simple process. The reason we use engines like Unity is because they do a lot of the heavy lifting for us, like a JavaScript framework or a Python library. Instead of hardcoding all these interactions we can use what Unity gives us. Still in the inspector view of the ball; click the "Add Component " button right below the material.
 
