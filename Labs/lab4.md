@@ -42,7 +42,9 @@ Go ahead and add a new component to the boundary, a new script called "BoundaryM
 
 Open this script and delete all the template code in the class. 
 
-Now try on your own to add the necessary code to 1. output to the console the player lost and 2. stop time.
+Now try on your own to add the necessary code to 
+1. output to the console the player lost 
+2. stop time.
 
 <details><summary> Click here to see the code</summary>
     
@@ -104,7 +106,7 @@ A couple of things to note:
 Great! Now we have one obstacle that you can tweak to your liking, and even prefab to create variants of. Let's go ahead and add another one.
 
 ## The second obstacle - Optional
-_Feel free to skip this obstacle during the live training, as it is mostly reinforcing previous ideas and it can more fun to get to new stuff in later labs!_
+_Feel free to skip this obstacle during the live training, as it is mostly reinforcing previous ideas and it can be more fun to get to new stuff in later labs!_
 
 Follow the same process as earlier: create a new cube named "MovingObstacle", center it on the platform, though this time on the other side and set it to about 5 on the X value, and line it so it is perpendicular to the platform
    ![MovingObstacle](https://github.com/mbeale0/Unity-Intro-Project/assets/74221606/e370068f-e45c-4061-aee2-d43acca9c4ed)
