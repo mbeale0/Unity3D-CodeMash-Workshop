@@ -226,4 +226,3 @@ And Voila! Everything is as it should be!
 
 High five your neighbor or do a little dance, cause your game is making tons of progress!
 
-Get ready for the next lab now. It'll be a big challenge, you'll get a chance to do everything on your own before I show you, then we'll take a quick break.
