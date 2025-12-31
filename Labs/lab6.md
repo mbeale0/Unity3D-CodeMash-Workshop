@@ -2,7 +2,7 @@
 
 It's one thing to have a goal the player can aim for over and over again, but I think we should give them extra consequences in the form of lives.
 
-We can do this Mario style, where a certain number of coins will give a bonus life. If they have lives, they can respawn at the most recent checkpoint(of there current session, arcade style). If not, then they restart at the beginning. For now we can start with two coins to keep things simple. This will also get us set up for the next two labs, where we add some simple yet improved visual effects, and some gamplay features such as a timer and audio. 
+We can do this Mario style, where a certain number of coins will give a bonus life. If they have lives, they can respawn at the most recent checkpoint of their current session, classic arcade style, no real saves. If not, then they restart at the beginning. For now we can start with two coins to keep things simple. This will also get us set up for the next two labs, where we add some simple yet improved visual effects, and some gamplay features such as a timer and audio. 
 
 ## Setup
 First off, let's set ourselves up for places to have coins and our checkpoints.
