@@ -37,6 +37,7 @@ The first thing we need to do is actually get our cube in a good place for the b
 The inspector is good for a couple things.
   1. Quickly resetting an object to its origin(0, 0, 0)
   2. Smaller, and more precise adjustments
+
 Let's go ahead and use the arrows for now. As you may have guessed, the cube will move in the direction of the arrows. However, unless you have already been messing around in your scene, it may be hard to see the cube. Let's learn a little bit about navigating the scene.
 
 To navigate the scene, you can both adjust your orientation/look, and your position. It's like a no-clip mode in certain games.
