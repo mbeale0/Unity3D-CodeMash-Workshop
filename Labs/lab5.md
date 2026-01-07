@@ -10,7 +10,7 @@ Now that we know what we need, let's go ahead and add them. We can add a Canvas 
 
 _Note: there can be more than one Canvas, but **not** more than one event system_
 
-We add a Canvas by clicking the "GameObject" tab at the tob, but instead of "3D Object" we select "UI", then select "Canvas towards the bottom.
+We add a Canvas by clicking the "GameObject" tab at the top, but instead of "3D Object" we select "UI", then select "Canvas towards the bottom.
 
 We'll keep going in a little bit but our heirarchy is getting a bit cluttered. We can actually clean it up similar to how we use folder in the asset window. In the heirarchy, right click, and select "Create Empty". Name this new empty gameobject "Obstacles". Empty game objects have nothing more than a transform, but can have components added as needed. We'll just use ours for storage. Select all your obstacles(Either by holding control down while you select them all or hold shift and click the top and bottom of consecutive objects) and drag them over top of the empty object. 
 
@@ -55,7 +55,7 @@ Go ahead and set the Y position of the Text object to 0. This will move the text
 
 _Hint: after clicking the anchor widget in the Rect transform, hold alt when clicking to move the object at the same time you set the anchor points_
 
-If you switch to the game view, you should notie the next about halfway cutoff, since it is outside of the canvas boundaries. Let's set the Y position to about -100 and bring it down. Also note with the anchor points being the oring, despite the text being in the top half of the Canvas, the position is in the negatives since it is below the anchors.
+If you switch to the game view, you should notice the next about halfway cutoff, since it is outside of the canvas boundaries. Let's set the Y position to about -100 and bring it down. Also note with the anchor points being the oring, despite the text being in the top half of the Canvas, the position is in the negatives since it is below the anchors.
 
 For simple text on screen, we also want it to be centered both vertically and horizontally, so that way, however we adjust the transfom is how the text is moved. We can set that in the alignment in "TextMeshPro - Text (UI)" (I'll refer to this component simply as the text component from now on). We select the second option of both rows.
 
@@ -93,7 +93,7 @@ It looks good, but let's add something we can give functionality too, in the for
 
 Add a button just like we added the font. Right click on Canvas -> UI -> Button - TextMeshPro. Name this button "QuitButton".
 
-Feel free to add anothe custom font to this by selecting the dropdown arrow in the inspector next to the object in the inspector and selecting the child text objext. You can change the font in the exact same way as before, by clicking the bullseye next to "Font Asset". While changing the font, let's change the text to "QUIT". We can also enabkle the "Auto Size" field of Font Style.
+Feel free to add another custom font to this by selecting the dropdown arrow in the inspector next to the object in the inspector and selecting the child text objext. You can change the font in the exact same way as before, by clicking the bullseye next to "Font Asset". While changing the font, let's change the text to "QUIT". We can also enabkle the "Auto Size" field of Font Style.
 
 Reselect the actual button object, and let's align it to the bottom right of the screen. We can do this by clicking the Rect Transform anchor widget -> holding ALT -> clicking square aligned with bottom right.
 
@@ -164,7 +164,7 @@ You'll also need to add "using TMPro;" in the list of using statements at the to
 
 Add the following line to Start:
 ``` C#
-canvas.setActive(false);
+canvas.SetActive(false);
 ```
 We only want the UI visible when we choose it to be so this turns it off for us. We can turn it off in the scene view, but this is good in case we forgot.
 
