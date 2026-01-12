@@ -40,6 +40,26 @@ if (Input.GetKey(KeyCode.W))
     Debug.Log("Pressing W!");
 }
 ```
+This requires enabling old unity inputs
+
+Player Controller inputs. (looks like this is a new difference in latest versions of unity)
+1. Go to Edit → Project Settings → Player
+2. Open Other Settings
+3. Find Active Input Handling
+4. Change it to: Both
+5. Restart Unity
+
+OR with new unity input system
+
+```C#
+using UnityEngine.InputSystem;
+...
+if (Keyboard.current.wKey.isPressed)
+{
+    Debug.Log("Pressing W!");
+}
+```
+
 Two things to note:
 1. This is an if statement, since we need to actually check when this happens
 2. We get the desired Key using the KeyCode enum, which will contain a whole list of keys(which you can see with intellisense completion)

@@ -207,7 +207,7 @@ After selecting "Add Tag" Press the plus button in the Tag dropdown, change the 
 
 For the last part, we need to hook the buttons up. We need the MenuController Script somewhere in the scene and since the Canvas holds the menu, that should be a good spot. Add the Script to the Canvas object.
 
-With that added, select tthe quit button, and at the bottom of the actual button component, in the "On Click ()" field, press the plus button. Drag the Canvas into the "None Object()" field so the button has a reference to the function, which we can hook up by selecting the "No Function" drop down - > Menu Controller -> OnQuit
+With that added, select the quit button, and at the bottom of the actual button component, in the "On Click ()" field, press the plus button. Drag the Canvas into the "None Object()" field so the button has a reference to the function, which we can hook up by selecting the "No Function" drop down - > Menu Controller -> OnQuit
 
 ![AddingFunction](https://github.com/mbeale0/Unity-Intro-Project/assets/74221606/24637cf2-389e-4c00-a931-aa49103c2cbf)
 

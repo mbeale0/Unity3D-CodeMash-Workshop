@@ -166,7 +166,7 @@ And a function to handle respawning:
 
 Two things to note on the respawn function:
 1. When lives are out, we want to reset the player but they need something to work with so we give them one life
-2. We check for lives < 0, because when a player has one life, they have more chance, at least in my mind 🙂 Feel free to take some leeway on that/
+2. We check for lives < 0, because when a player has one life, they have more chance, at least in my mind 🙂 Feel free to take some leeway on that.
 
 Now all that is left to do is add the "respawn" function to whenever the player dies, and to hook up all the new fields. Go ahead and give this a try, then check out my solution.
 
